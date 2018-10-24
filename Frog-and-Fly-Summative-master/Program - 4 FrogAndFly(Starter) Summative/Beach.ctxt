@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ Name\:\ Aryan\ Bhalla\r\n\ Class\:\ Software\ Development\ 10S\r\n\ Teacher\:\ Mr.Hardman\r\n\ Date\ Last\ Modified\:\ 10/23/2018\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Beach\ is\ the\ constructor\ that\ creates\ a\ beach\ object\r\n\ \r\n\ It\ add\ the\ size\ of\ the\ world,\ food...\r\n\ Fly,\ Frog\ and\ adds\ a\ scoreboard\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ an\ Food\ objects\ in\ the\ world\ in\ random\ spots\r\n\ \r\n\ @param\ There\ is\ one\ parameters,\ (int,\ n)\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ addFly()
+comment3.text=\r\n\ addFly\ is\ adding\ Fly\ in\ to\ the\ world\ in\ the\ random\ location\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ addFrog()
+comment4.text=\r\n\ addFrog\ is\ adding\ Frog\ in\ to\ the\ center\ of\ the\ world\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ update,\ update\ the\ scoreboard\ when\ the\ Fly\ eat\ the\ food\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ act\ is\ the\ constructor\ that\ make\ the\ food\ reset\ after\ its\ all\ gone\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=7

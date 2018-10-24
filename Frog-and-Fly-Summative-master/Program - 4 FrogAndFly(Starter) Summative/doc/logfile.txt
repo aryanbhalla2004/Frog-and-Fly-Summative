@@ -1,0 +1,48 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\Greenfoot\lib\extensions\greenfoot.jar;C:\Program Files (x86)\Greenfoot\lib\bluejcore.jar;C:\Program Files (x86)\Greenfoot\lib\bluejeditor.jar;C:\Program Files (x86)\Greenfoot\lib\bluejext.jar;C:\Program Files (x86)\Greenfoot\lib\AppleJavaExtensions.jar;C:\Program Files (x86)\Greenfoot\lib\junit-4.11.jar;C:\Program Files (x86)\Greenfoot\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\Greenfoot\lib\bluej.jar;C:\Program Files (x86)\Greenfoot\lib\diffutils-1.2.1.jar;C:\Program Files (x86)\Greenfoot\lib\commons-logging-api-1.1.2.jar;C:\Program Files (x86)\Greenfoot\lib\jl1.0.1.jar;C:\Program Files (x86)\Greenfoot\lib\opencsv-2.3.jar;C:\Program Files (x86)\Greenfoot\lib\xom-1.2.9.jar;C:\Program Files (x86)\Greenfoot\lib\lang-stride.jar;C:\Program Files (x86)\Greenfoot\lib\nsmenufx-2.1.4.jar;C:\Program Files (x86)\Greenfoot\lib\richtextfx-fat-0.9.0.jar;C:\Program Files (x86)\Greenfoot\lib\guava-17.0.jar;C:\Program Files (x86)\Greenfoot\lib\javassist-3.18.0.jar;C:\Program Files (x86)\Greenfoot\lib\commons-vfs2-2.0.jar;C:\Program Files (x86)\Greenfoot\lib\httpclient-4.1.1.jar;C:\Program Files (x86)\Greenfoot\lib\httpcore-4.1.jar;C:\Program Files (x86)\Greenfoot\lib\httpmime-4.1.1.jar;D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative
+-d
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java
+<---- end of javadoc command ---->
+Loading source file D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+Standard Doclet version 1.8.0_172
+Building tree for all the packages and classes...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\Fly.html...
+warning: unknown enum constant Tag.Simulation
+warning: unknown enum constant Tag.Simulation
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java:18: warning - Tag @return cannot be used in constructor documentation.  It can only be used in the following types of documentation: method.
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java:18: warning - @param argument "There" is not a parameter name.
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java:43: warning - @param argument "There" is not a parameter name.
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java:43: warning - @return tag cannot be used in method with void return type.
+D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\Fly.java:29: warning - @param argument "There" is not a parameter name.
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\package-frame.html...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\package-summary.html...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\allclasses-frame.html...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\allclasses-noframe.html...
+Generating D:\Greenfoot\Frog-and-Fly-Summative-master\Program - 4 FrogAndFly(Starter) Summative\doc\index.html...
+9 warnings

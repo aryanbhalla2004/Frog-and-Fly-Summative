@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Creature
+comment1.params=
+comment1.target=boolean\ atEdgeOfWorld()
+comment1.text=\r\n\ atEdgeofworld\ check\ if\ the\ that\ Frog\ or\ the\ fly\ at\ the\ edge\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=2

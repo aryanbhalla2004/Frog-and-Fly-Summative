@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fly
+comment0.text=\r\n\r\n\ Have\ the\ fly\ count\ how\ many\ Food\ object\ it\ eats\ (2\ marks)\r\n\ Every\ time\ the\ fly\ eats\ all\ 10\ Food\ objects,\ add\ 10\ more\ Food\r\n\ objects\ to\ the\ world\ and\ continue\ playing.\ (3\ marks)\r\n\ \r\n
+comment1.params=
+comment1.target=Fly()
+comment1.text=\r\n\ Fly\ is\ the\ contructor\ that\ make\ the\ fly\ respone\ in\ different\ roation\\\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=start\ end
+comment2.target=int\ getRandomNumber(int,\ int)
+comment2.text=\r\n\ Fly\ is\ the\ contructor\ that\ make\ the\ fly\ respone\ in\ different\ roation\\\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ is\ the\ contructor\ that\ make\ the\ fly\ object\r\n\ checkkeys\ check\ for\ key\ press\ (left,\ right,\ up,\ and\ down)\r\n\ checkForFood\ check\ for\ the\ food\ around\ or\ under\ the\ fly\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkForFood()
+comment4.text=\r\n\ checkForFood\ is\ the\ contructor\ that\ make\ the\ fly\ eat\ food\r\n\ isTouching\ is\ making\ the\ fly\ eat\ food\ my\ the\ going\ on\ top\ of\ the\ food\r\n\ update\ is\ updating\ the\ scoreboard\ in\ the\ world\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkKeys()
+comment5.text=\r\n\ checkKeys\ is\ the\ contructor\ that\ make\ the\ fly\ move\ around...\r\n\ So\ if\ I\ press\ left\ it\ will\ go\ left\ and\ if\ i\ press\ right\ it\ will\ go\ right\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ Frog\ is\ the\ contructor\ that\ sets\ the\ speed\ between\ 4\ to\ 8\ for\ the\ frog\ \r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ contructor\ that\ make\ the\ frog\ Object\r\n\ move\ setting\ up\ the\ speed\ for\ the\ frog\r\n\ isAtEdge\ is\ make\ frog\ turn\ if\ the\ frog\ hits\ the\ edge\r\n\ eatFly\ is\ making\ the\ frog\ eat\ the\ fly\ if\ the\ fly\ is\ near\ or\ under\ the\ frog\r\n\ frogPath\ is\ making\ the\ from\ move\ random\ location\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ eatFly()
+comment3.text=\r\n\ eatFly\ is\ making\ the\ frog\ eat\ the\ fly\ by\ hovering\ over\ it\ or\ chasing\ it...\r\n\ and\ stoping\ the\ Greenfoot\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ frogPath()
+comment4.text=\r\n\ frogPath\ is\ making\ the\ frog\ go\ in\ random\ places\ like\ if\ the\ 35%\ of\ the\ time\ frog\ turn\ left\ 15\ diagres...\r\n\ and\ right\ 15\ digares\ and\ the\ other\ precent\ of\ the\ time\ frog\ move\ straight\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5
